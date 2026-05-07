@@ -21,7 +21,7 @@
   <a href="https://github.com/FrancescoStabile/numasec/releases"><img src="https://img.shields.io/github/v/release/FrancescoStabile/numasec?include_prereleases&style=for-the-badge&label=release&labelColor=0b0f0a&color=2f81f7" alt="release"></a>
   <a href="https://www.npmjs.com/package/numasec"><img src="https://img.shields.io/npm/v/numasec?style=for-the-badge&label=npm&logo=npm&logoColor=white&labelColor=0b0f0a&color=cb3837" alt="npm"></a>
   <a href="https://www.npmjs.com/package/numasec"><img src="https://img.shields.io/npm/dm/numasec?style=for-the-badge&color=00c2ff&label=downloads" alt="npm downloads"></a>
-  <a href="https://github.com/FrancescoStabile/numasec/stargazers"><img src="https://img.shields.io/github/stars/FrancescoStabile/numasec?style=for-the-badge&label=stars&logo=github&logoColor=white&labelColor=0b0f0a&color=f5a524" alt="GitHub stars"></a>
+  <a href="https://github.com/FrancescoStabile/numasec/stargazers"><img src="https://img.shields.io/github/stars/FrancescoStabile/numasec.svg?style=for-the-badge&label=stars&logo=github&logoColor=white&labelColor=0b0f0a&color=f5a524&cacheSeconds=1800" alt="GitHub stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-00c2ff?style=for-the-badge" alt="MIT license"></a>
 </p>
 
